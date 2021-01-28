@@ -1,0 +1,10 @@
+server:
+  port: 3000
+db:
+  type: 'postgres'
+  port: 5432
+  database: 'dbv31n3vudronb'
+  mongoUri: 'mongodb+srv://chat-user:Chatuser123@cluster0.arfwf.mongodb.net/test?retryWrites=true&w=majority'
+jwt:
+  expiresIn: 360000000000
+  secret: 'secret'

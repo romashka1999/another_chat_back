@@ -1,0 +1,6 @@
+db:
+  host: 'ec2-3-208-168-0.compute-1.amazonaws.com'
+  username: 'btkkwgvwkdbhxp'
+  password: 'f0fd91166f9ecf8b705bb2d1c4727c875b1c7ebf60d1507a418280955bbdb1a8'
+  synchronize: true
+  logging: true
